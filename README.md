@@ -4,7 +4,7 @@
 
 - Clone the project with git clone command
 
-- Navigate into the folder whre the cloned project is.
+- Navigate into the folder where the cloned project is.
 
 - Run the command npm install
 
@@ -14,4 +14,4 @@
 
 - run `npx cypress run` to run the script in headless mode [(ref)](https://docs.cypress.io/guides/guides/command-line)
 
-
+> negative and positive test was implemented.
